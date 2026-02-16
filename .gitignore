@@ -43,8 +43,8 @@ exports/
 *.sqlite
 *.sqlite3
 
-# PDFs (if you want to exclude them)
-# *.pdf
+# PDFs and docs
+*.pdf
 
 # Temporary files
 *.tmp

@@ -1,6 +1,6 @@
-# 🚀 Strapi Backend – AI Fitness Tracker
+# 🚀 Strapi Backend – AI HealthTracker
 
-Backend for the **AI Fitness Tracker** app: Strapi CMS with Food Log, Activity Log, User permissions, and Google Gemini image analysis.
+Backend for the **AI HealthTracker** app: Strapi CMS with Food Log, Activity Log, User permissions, and Google Gemini image analysis.
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 

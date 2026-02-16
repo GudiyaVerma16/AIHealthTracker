@@ -1,6 +1,6 @@
-# 🏋️ AI Fitness Tracker – Frontend
+# 🏋️ AI HealthTracker – Frontend
 
-React frontend for the **AI Fitness Tracker** app. Built with React 19, TypeScript, Vite, and Tailwind CSS.
+React frontend for the **AI HealthTracker** app. Built with React 19, TypeScript, Vite, and Tailwind CSS.
 
 ## Tech Stack
 

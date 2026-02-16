@@ -1,4 +1,4 @@
-# 🏋️ AI Fitness Tracker
+# 🏋️ AI HealthTracker
 
 A full-stack fitness tracking application with AI-powered food image recognition. Track your meals, activities, and progress toward your fitness goals.
 
@@ -29,8 +29,8 @@ A full-stack fitness tracking application with AI-powered food image recognition
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/srbhcodes/fitness.git
-cd fitness
+git clone https://github.com/GudiyaVerma16/AIHealthTracker.git
+cd AIHealthTracker
 ```
 
 ### 2. Setup Server (Backend)
@@ -144,7 +144,7 @@ node -e "console.log(require('crypto').randomBytes(32).toString('base64'))"
 ## 📦 Project Structure
 
 ```
-fitness/
+AIHealthTracker/
 ├── client/          # React frontend
 │   ├── src/
 │   ├── package.json
@@ -196,5 +196,5 @@ For issues and questions, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ using React, Strapi, and Google Gemini AI**
+**Made with ❤️ – AI HealthTracker (React, Strapi, Google Gemini AI)**
 
