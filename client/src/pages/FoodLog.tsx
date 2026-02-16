@@ -22,7 +22,7 @@ const FoodLog = () => {
     mealType: ''
   })
   const [loading, setLoading] = useState(false)
-  const [aiResult, setAiResult] = useState<{name: string, calories: number} | null>(null)
+  const [, setAiResult] = useState<{name: string, calories: number} | null>(null)
   const [showAiConfirm, setShowAiConfirm] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
 
